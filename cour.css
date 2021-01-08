@@ -1,0 +1,135 @@
+
+h2,h3,h4,h5
+{
+    text-align:center;
+    height: 60px; width: 500px;
+    border:3px double;
+    height:50px; width: 300px;
+    padding: 1px; margin: 10px;
+    color:#424558(70, 5, 5);
+
+}
+.main
+{
+    background-color: #424558;
+}
+h1
+{
+    text-align: center;
+    border: outset;
+    
+
+} 
+div
+{
+    text-align: center;
+    
+    
+}
+/* p
+{
+    
+    border: 3px groove;
+    text-align: justify;
+    height:450px ; width: 300px;
+    padding: 1px;
+    margin: 10px;
+   
+    
+} */
+/* nav
+{
+    text-align: center;
+    padding: 3px; margin: 10px;
+    border: 5px groove;
+    
+} */
+body
+{
+;
+  
+  background-color:#fff;
+  
+  
+  
+  
+}
+.div-main{
+    width: 100%;
+    
+    /* float : left; */
+}
+
+nav{
+    background: #424558;
+    width: 100%;
+    text-align: center;
+
+}
+
+nav > ul  {
+    list-style: none;
+    margin:  0px;
+    padding: 0px;
+}
+
+nav > ul > li{
+    display: inline-block;
+    list-style-type: none;
+    
+}
+.left > ul > li{
+    list-style: none;
+}
+nav > ul > li > a{
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+    padding: 20px 30px ;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+.div-content{
+    width : 400px;
+    height:  200px;
+    border: 1px solid #424558;
+    float : left;
+    display: inline-block;
+    margin:  5px;
+
+}
+
+nav > ul > li:hover{
+    background: #1ce;
+}
+.div-container > a
+{
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+    
+    text-transform: capitalize;
+    font-size: 10px;
+    
+
+}
+
+
+
+footer{
+    clear: both;
+    background-color:#424558;
+}
+.div-container > a:hover
+{
+   color: #1ce;
+}
+.div-container > img{
+    display: block;
+    width: 50px;
+    height: 60px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: absolute;
+}
+
